@@ -12,3 +12,4 @@ I used the Starbie project by [SharKingStudios as my starting point](https://git
 •	Battery voltage monitoring so the pet can react when the battery is low.
 •	USB power detection so the pet can have a different expression when plugged in.
 
+[3D View](C:\Users\PC\OneDrive\Pictures\Screenshots\Screenshot 2026-10-11 215950.png)
