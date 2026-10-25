@@ -15,7 +15,6 @@ I used the Starbie project by [SharKingStudios as my starting point](https://git
 # 3D View of PCB
 ![3D View](Starbie_3D_View.png)
 
-[**Onshape Project Link**](https://cad.onshape.com/documents/30b1cbdd64f530785b53ed5e/w/46caed9ad191264a28cf3bcb/e/df15983b73c9392080d00bbe?renderMode=0&uiState=6add6acb7146cb9c66f35473)
 # PCB Enclosure
 ![Enclosure](Enclosure.png) 
 
