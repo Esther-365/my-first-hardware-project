@@ -1,0 +1,21 @@
+﻿Part,Qty,Unit,Vendor
+10nF Capacitor,10,0.1,digikey
+100nF Capacitor,10,0.7,digikey
+0.96 OLED,4,5.99,Amazon
+MPU6050,1,6.99,Amazon
+JST-PH,10,0.1,Newark
+10k Resistor,2,4.97,Amazon
+MX_switches,6,0.18,Amazon
+XIAO-ESP32-C3-SMD,1,4.99,seeed studio
+DHT11,1,5.99,Amazon
+AT42QT1011-TSHR,1,0.77,DigiKey
+Key Caps,1,11.99,Amazon
+PCB,1,10,JLCPCB
+200k Resistor,10,0.1,Digikey
+100K Resistor,10,0.15,DigiKey
+150k Resistor,10,0.15,DigiKey
+1000mAh battery,1,7.99,ebay
+M2.5,1,9.99,Amazon
+M3,1,8.99,Amazon
+Fabric-over-foam gasket,1,16.55,Newark
+40-pin female header strip,1,1.95,sparkfun
