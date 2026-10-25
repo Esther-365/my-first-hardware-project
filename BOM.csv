@@ -1,4 +1,5 @@
 Item,Qty,Supplier,Cost/item,Total Cost,link
 XIAO ESP32-S3,1,seeed studio,$7.49,$7.49,https://www.seeedstudio.com/XIAO-ESP32S3-p-5627.html
 Connector pin,6,DigiKey,$1.16,$6.96,https://www.digikey.com/en/products/detail/phoenix-contact/1715022/260626
+10k Resisitor,10,DigiKey,$0.10,$1.00,https://www.digikey.com/en/products/detail/stackpole-electronics-inc/RMCF0805FT10K0/1760676
 Estimated total shipping,1,,,$0.00,
