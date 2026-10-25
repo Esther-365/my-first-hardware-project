@@ -16,3 +16,4 @@ I used the Starbie project by [SharKingStudios as my starting point](https://git
 ![3D View](Starbie_3D_View.png)
 
 # PCB Enclosure
+![Enclosure](Enclosure.png) 
