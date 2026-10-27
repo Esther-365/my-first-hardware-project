@@ -1,8 +1,22 @@
 Item,Qty,Supplier,Cost/item,Total Cost,link
-XIAO ESP32-S3,1,seeed studio,$7.49,$7.49,https://www.seeedstudio.com/XIAO-ESP32S3-p-5627.html
-Connector pin,6,DigiKey,$1.16,$6.96,https://www.digikey.com/en/products/detail/phoenix-contact/1715022/260626
-10k Resisitor,10,DigiKey,$0.10,$1.00,https://www.digikey.com/en/products/detail/stackpole-electronics-inc/RMCF0805FT10K0/1760676
-100k resistor,10,DigiKey,$0.10,$1.00,https://www.digikey.com/en/products/detail/yageo/RE0805FRE07100KL/5923482
-Schottky diode,4,Mousers,$0.57,$2.28,https://www.mouser.com/en/ProductDetail/Diotec-Semiconductor/SD103AW?qs=OlC7AqGiEDkHDitXxgKEcA%3D%3D
-PCB,1,JLCPCB,$5.00,$5.00,https://cart.jlcpcb.com/
-Estimated total shipping,1,,,$10.00,
+10nF Capacitor,10,digikey,$0.00,$0.00,
+100nF Capacitor,10,digikey,$0.00,$0.00,
+0.96 OLED,4,Amazon,$0.00,$0.00,
+MPU6050,1,Amazon,$0.00,$0.00,
+JST-PH,10,Newark,$0.00,$0.00,
+10k Resistor,2,Amazon,$0.00,$0.00,
+MX_switches,6,Amazon,$0.00,$0.00,
+XIAO-ESP32-C3-SMD,1,seeed studio,$0.00,$0.00,
+DHT11,1,Amazon,$0.00,$0.00,
+AT42QT1011-TSHR,1,DigiKey,$0.00,$0.00,
+Key Caps,1,Amazon,$0.00,$0.00,
+PCB,1,JLCPCB,$0.00,$0.00,
+200k Resistor,10,Digikey,$0.00,$0.00,
+100K Resistor,10,DigiKey,$0.00,$0.00,
+150k Resistor,10,DigiKey,$0.00,$0.00,
+1000mAh battery,1,ebay,$0.00,$0.00,
+M2.5,1,Amazon,$0.00,$0.00,
+M3,1,Amazon,$0.00,$0.00,
+Fabric-over-foam gasket,1,Newark,$0.00,$0.00,
+40-pin female header strip,1,sparkfun,$0.00,$0.00,
+Estimated total shipping,1,,,$0.00,
