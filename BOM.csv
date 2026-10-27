@@ -3,7 +3,7 @@ Item,Qty,Supplier,Cost/item,Total Cost,link
 100nF Capacitor,10,digikey,$0.00,$0.00,
 0.96 OLED,1,Amazon,$5.99,$5.99,https://www.amazon.com/dp/B0GBVWBWCR
 MPU6050,1,Amazon,$6.99,$6.99,https://www.amazon.com/dp/B01DK83ZYQ
-JST-PH,10,Newark,$0.00,$0.00,
+JST-PH,10,Newark,$0.10,$1.00,https://www.newark.com/jst-japan-solderless-terminals/b2b-ph-k-s-lf-sn/header-top-entry-2way-2mm/dp/37K9940
 10k Resistor,1,Amazon,$4.97,$4.97,https://www.amazon.com/dp/B0B4JFPHTW
 MX_switches,1,Amazon,$4.99,$4.99,https://www.amazon.com/dp/B0DSHTPSL3
 XIAO-ESP32-C3-SMD,1,seeed studio,$4.99,$4.99,https://www.seeedstudio.com/Seeed-XIAO-ESP32C3-p-5431.html
