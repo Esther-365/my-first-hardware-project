@@ -1,6 +1,6 @@
 Item,Qty,Supplier,Cost/item,Total Cost,link
 10nF Capacitor,10,digikey,$0.04,$0.40,https://www.digikey.com/en/products/detail/samsung-electro-mechanics/CL21B103KBANNNC/3886673
-100nF Capacitor,10,digikey,$0.00,$0.00,
+100nF Capacitor,10,digikey,$0.05,$0.50,https://www.digikey.com/en/products/detail/samsung-electro-mechanics/CL21B104KBCNFNC/3888102
 0.96 OLED,1,Amazon,$5.99,$5.99,https://www.amazon.com/dp/B0GBVWBWCR
 MPU6050,1,Amazon,$6.99,$6.99,https://www.amazon.com/dp/B01DK83ZYQ
 JST-PH,10,Newark,$0.10,$1.00,https://www.newark.com/jst-japan-solderless-terminals/b2b-ph-k-s-lf-sn/header-top-entry-2way-2mm/dp/37K9940
