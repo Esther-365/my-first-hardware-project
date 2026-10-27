@@ -1,5 +1,5 @@
 Item,Qty,Supplier,Cost/item,Total Cost,link
-10nF Capacitor,10,digikey,$0.00,$0.00,
+10nF Capacitor,10,digikey,$0.04,$0.40,https://www.digikey.com/en/products/detail/samsung-electro-mechanics/CL21B103KBANNNC/3886673
 100nF Capacitor,10,digikey,$0.00,$0.00,
 0.96 OLED,1,Amazon,$5.99,$5.99,https://www.amazon.com/dp/B0GBVWBWCR
 MPU6050,1,Amazon,$6.99,$6.99,https://www.amazon.com/dp/B01DK83ZYQ
