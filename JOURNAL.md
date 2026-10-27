@@ -10,7 +10,7 @@
 
 | Week | Tier | Hours logged | Entries |
 | --- | --- | --- | --- |
-| Week 1 | Tier 1 | 27.33h | 2 |
+| Week 1 | Tier 1 | 13.6h | 2 |
 
 ## Contents
 
@@ -29,7 +29,7 @@
 
 ### 2026-10-26: ---
 
-**13.83h**
+**0.1h**
 
 ---
 Title: Starbie
